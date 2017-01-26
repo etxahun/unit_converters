@@ -7,7 +7,7 @@ from pick import pick
 # print(option,index)
 
 '''
- Funciones de conversion:
+ Funciones de conversión:
 '''
 
 def mw_to_dbm(mW):
